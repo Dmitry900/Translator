@@ -6,5 +6,7 @@ namespace translator
 {
     class StaticTables
     {
+
+
     }
 }
