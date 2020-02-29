@@ -1,0 +1,11 @@
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\obj\Debug\netcoreapp3.1\translator.csprojAssemblyReference.cache
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\obj\Debug\netcoreapp3.1\translator.AssemblyInfoInputs.cache
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\obj\Debug\netcoreapp3.1\translator.AssemblyInfo.cs
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\bin\Debug\netcoreapp3.1\translator.exe
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\bin\Debug\netcoreapp3.1\translator.deps.json
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\bin\Debug\netcoreapp3.1\translator.runtimeconfig.json
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\bin\Debug\netcoreapp3.1\translator.runtimeconfig.dev.json
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\bin\Debug\netcoreapp3.1\translator.dll
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\bin\Debug\netcoreapp3.1\translator.pdb
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\obj\Debug\netcoreapp3.1\translator.dll
+C:\Users\M_D_K\Documents\GitHub\Translator\translator\obj\Debug\netcoreapp3.1\translator.pdb
