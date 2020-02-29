@@ -7,6 +7,7 @@ namespace translator
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //чечня круто
         }
     }
 }
