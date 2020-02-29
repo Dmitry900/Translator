@@ -4,10 +4,14 @@ namespace translator
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
-            //ЛЛЛ
+            StaticTables staticTables = new StaticTables("Service_Words.txt");
+            for (int i = 0; i < 12; i++)
+                Console.WriteLine(staticTables.GetName(i+1));
+            Console.WriteLine("\n\n\n\n");
+            Console.WriteLine(staticTables.GetName(12));
+            Console.WriteLine(staticTables.GetNumber(";"));
         }
     }
 }
