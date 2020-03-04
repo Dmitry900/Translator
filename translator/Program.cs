@@ -12,6 +12,7 @@ namespace translator
             Console.WriteLine("\n\n\n\n");
             Console.WriteLine(staticTables.GetName(12));
             Console.WriteLine(staticTables.GetNumber(";"));
+            Console.ReadLine();
         }
     }
 }

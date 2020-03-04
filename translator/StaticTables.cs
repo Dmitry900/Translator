@@ -39,7 +39,7 @@ namespace translator
             if (lexems.Contains(name))
                 return lexems.IndexOf(name)+1;
             
-            return 0;
+            return -1;
         }
     }
 }
